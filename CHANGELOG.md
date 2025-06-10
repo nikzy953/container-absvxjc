@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Jun 10 2025)
+
+#### 🐛 Bug Fix
+
+- Update index.html [#2](https://github.com/nikzy953/container-absvxjc/pull/2) ([@nikzy953](https://github.com/nikzy953))
+
+#### Authors: 1
+
+- [@nikzy953](https://github.com/nikzy953)
+
+---
+
 # v0.0.1 (Tue Jun 10 2025)
 
 :tada: This release contains work from a new contributor! :tada:
